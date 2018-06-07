@@ -17,8 +17,8 @@
 .prayer-button {
     position: absolute;
     top: 55%;
-    left: 55%;
-    margin-right: -55%;
-    transform: translate(-55%, -55%)
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
