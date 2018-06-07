@@ -13,3 +13,8 @@
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
+
+body {
+    background-color: black;
+    color: white;
+}
